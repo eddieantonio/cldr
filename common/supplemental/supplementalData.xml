@@ -1465,6 +1465,7 @@ XXX Code for transations where no currency is involved
 		<language type="crj" scripts="Cans"/>
 		<language type="crj" scripts="Latn" alt="secondary"/>
 		<language type="crk" scripts="Cans"/>
+		<language type="crk" scripts="Latn" alt="secondary"/>
 		<language type="crl" scripts="Cans"/>
 		<language type="crl" scripts="Latn" alt="secondary"/>
 		<language type="crm" scripts="Cans"/>
